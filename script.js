@@ -20,8 +20,8 @@ if (randomIntFromInterval(1,2) == 1) {
     revealText = "<h2 style=\"font-size:xx-large;color:rgb(244 114 182/var(--tw-text-opacity))\">a beautiful baby girl!</h2>"
 }
 
-value = 45;
-    revealText = "<h2 style=\"font-size:xx-large;color:rgb(34 211 238/var(--tw-text-opacity))\">a beautiful baby boy!</h2>"
+value = 90;
+    revealText = "<h2 style=\"font-size:xx-large;color:rgb(244 114 182/var(--tw-text-opacity))\">a beautiful baby girl!</h2>"
 
 function startFireworks() {
     revealMe.innerHTML = revealText;
